@@ -6,8 +6,8 @@ Programming Language: JAVA
 
 Algorithms Used:
 
-*Kernel Density Estimation
-*Robust Clustering Algorithm for Categorical Attributes
-*K-Medoid Clustering Algorithm
+* Kernel Density Estimation
+* Robust Clustering Algorithm for Categorical Attributes
+* K-Medoid Clustering Algorithm
 
 Achieved an overall precision of 72% in predicting criminal activities, with respect to a particular time frame of the day, day of a week and identifying a vulnerable locality in the city.
